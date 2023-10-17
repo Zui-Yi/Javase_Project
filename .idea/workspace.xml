@@ -10,11 +10,7 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07_case_exercise/src/com.rx.test/DoubleColoredBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07_case_exercise/src/com.rx.test/DoubleColoredBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07_case_exercise/src/com.rx.test/Wfhf.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +171,7 @@
       <workItem from="1697453128357" duration="913000" />
       <workItem from="1697481251439" duration="4249000" />
       <workItem from="1697489463666" duration="21788000" />
-      <workItem from="1697553995722" duration="5084000" />
+      <workItem from="1697553995722" duration="5424000" />
     </task>
     <servers />
   </component>
