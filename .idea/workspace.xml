@@ -12,6 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07_case_exercise/src/com.rx.test/DoubleColoredBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07_case_exercise/src/com.rx.test/DoubleColoredBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07_case_exercise/src/com.rx.test/Wfhf.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day01_helloworld_app/day01_helloworld_app.iml" />
@@ -76,13 +79,13 @@
       <recent name="helloworld" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test3">
-    <configuration name="OverLoadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rx.overload.OverLoadDemo1" />
-      <module name="day06_method" />
+  <component name="RunManager" selected="应用程序.DoubleColoredBall">
+    <configuration name="DoubleColoredBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.test.DoubleColoredBall" />
+      <module name="day07_case_exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rx.overload.*" />
+          <option name="PATTERN" value="com.rx.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +146,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.OverLoadDemo1" />
       <item itemvalue="应用程序.ReturnDemo1" />
       <item itemvalue="应用程序.Test1" />
       <item itemvalue="应用程序.Test2" />
       <item itemvalue="应用程序.Test3" />
+      <item itemvalue="应用程序.DoubleColoredBall" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.DoubleColoredBall" />
         <item itemvalue="应用程序.Test3" />
         <item itemvalue="应用程序.Test2" />
         <item itemvalue="应用程序.Test1" />
         <item itemvalue="应用程序.ReturnDemo1" />
-        <item itemvalue="应用程序.OverLoadDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +174,8 @@
       <workItem from="1697451340670" duration="1646000" />
       <workItem from="1697453128357" duration="913000" />
       <workItem from="1697481251439" duration="4249000" />
-      <workItem from="1697489463666" duration="19781000" />
+      <workItem from="1697489463666" duration="21788000" />
+      <workItem from="1697553995722" duration="5084000" />
     </task>
     <servers />
   </component>
