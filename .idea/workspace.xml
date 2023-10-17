@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="day07_case_exercise" />
+      <module name="day03_scanner" />
+      <module name="day04_random" />
+      <module name="day05_array" />
+      <module name="day06_method" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\intelliJ\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="2WqC4Vzpq7Q6hdhAyVnKxF9onNp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day01_helloworld_app/day01_helloworld_app.iml" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java-codes\javaseproject\day07_case_exercise\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="helloworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Test3">
+    <configuration name="OverLoadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.overload.OverLoadDemo1" />
+      <module name="day06_method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rx.overload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.returnnull.ReturnDemo1" />
+      <module name="day06_method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rx.returnnull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.test.Test1" />
+      <module name="day07_case_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.test.Test2" />
+      <module name="day07_case_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.test.Test3" />
+      <module name="day07_case_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.OverLoadDemo1" />
+      <item itemvalue="应用程序.ReturnDemo1" />
+      <item itemvalue="应用程序.Test1" />
+      <item itemvalue="应用程序.Test2" />
+      <item itemvalue="应用程序.Test3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test3" />
+        <item itemvalue="应用程序.Test2" />
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.ReturnDemo1" />
+        <item itemvalue="应用程序.OverLoadDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="" />
+      <created>1697450534533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697450534533</updated>
+      <workItem from="1697450535770" duration="765000" />
+      <workItem from="1697451340670" duration="1646000" />
+      <workItem from="1697453128357" duration="913000" />
+      <workItem from="1697481251439" duration="4249000" />
+      <workItem from="1697489463666" duration="19177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="111" />
+    <module name="day02_yf_app" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
