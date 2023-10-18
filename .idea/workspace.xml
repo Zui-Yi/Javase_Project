@@ -2,15 +2,47 @@
 <project version="4">
   <component name="AutomaticModuleUnloader">
     <loaded-modules>
-      <module name="day07_case_exercise" />
+      <module name="day08_oop" />
       <module name="day03_scanner" />
       <module name="day04_random" />
-      <module name="day05_array" />
-      <module name="day06_method" />
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="" />
+    <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/day08_oop/day08_oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/constructor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/constructor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/javabean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/javabean/StudentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/javabean/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/object/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/object/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/object/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/thisdemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/thisdemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/videodemo/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/videodemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_oop/src/com/rx/videodemo/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/constructor/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/constructor/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/encapsulation/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/encapsulation/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/javabean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/javabean/StudentOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/javabean/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/object/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/object/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/object/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/thisdemo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/thisdemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/videodemo/Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/videodemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08_oop/com/rx/videodemo/Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,12 +81,15 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="2WqC4Vzpq7Q6hdhAyVnKxF9onNp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -62,7 +97,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day01_helloworld_app/day01_helloworld_app.iml" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -75,13 +110,13 @@
       <recent name="helloworld" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.DoubleColoredBall">
-    <configuration name="DoubleColoredBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rx.test.DoubleColoredBall" />
-      <module name="day07_case_exercise" />
+  <component name="RunManager" selected="应用程序.Test (5)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.thisdemo.Test" />
+      <module name="day08_oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="PATTERN" value="com.rx.thisdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rx.returnnull.ReturnDemo1" />
-      <module name="day06_method" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.constructor.Test" />
+      <module name="day08_oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rx.returnnull.*" />
+          <option name="PATTERN" value="com.rx.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rx.test.Test1" />
-      <module name="day07_case_exercise" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.encapsulation.Test" />
+      <module name="day08_oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="PATTERN" value="com.rx.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rx.test.Test2" />
-      <module name="day07_case_exercise" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.javabean.Test" />
+      <module name="day08_oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="PATTERN" value="com.rx.javabean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rx.test.Test3" />
-      <module name="day07_case_exercise" />
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rx.videodemo.Test" />
+      <module name="day08_oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rx.test.*" />
+          <option name="PATTERN" value="com.rx.videodemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +177,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.ReturnDemo1" />
-      <item itemvalue="应用程序.Test1" />
-      <item itemvalue="应用程序.Test2" />
-      <item itemvalue="应用程序.Test3" />
-      <item itemvalue="应用程序.DoubleColoredBall" />
+      <item itemvalue="应用程序.Test (1)" />
+      <item itemvalue="应用程序.Test (2)" />
+      <item itemvalue="应用程序.Test (3)" />
+      <item itemvalue="应用程序.Test (4)" />
+      <item itemvalue="应用程序.Test (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.DoubleColoredBall" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.Test1" />
-        <item itemvalue="应用程序.ReturnDemo1" />
+        <item itemvalue="应用程序.Test (5)" />
+        <item itemvalue="应用程序.Test (4)" />
+        <item itemvalue="应用程序.Test (3)" />
+        <item itemvalue="应用程序.Test (2)" />
+        <item itemvalue="应用程序.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +207,10 @@
       <workItem from="1697481251439" duration="4249000" />
       <workItem from="1697489463666" duration="21788000" />
       <workItem from="1697553995722" duration="5424000" />
+      <workItem from="1697596312335" duration="4130000" />
+      <workItem from="1697620104234" duration="3042000" />
+      <workItem from="1697623192529" duration="60000" />
+      <workItem from="1697623293255" duration="200000" />
     </task>
     <servers />
   </component>
@@ -181,6 +220,9 @@
   <component name="UnloadedModulesList">
     <module name="111" />
     <module name="day02_yf_app" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
