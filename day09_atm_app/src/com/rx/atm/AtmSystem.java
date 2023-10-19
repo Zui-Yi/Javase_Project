@@ -176,8 +176,12 @@ public class AtmSystem {
                 case 6:
                     return;//直接跳出死循环，跳出方法
                 case 7:
-                    endAccount();
-                    return;
+                    boolean b=endAccount();
+                    if(b){
+                        return;
+                    }else {
+                        break;
+                    }
                 default:
                     System.out.println("当前操作不存在，请重新输入：");
             }
@@ -299,7 +303,7 @@ public class AtmSystem {
     }
 
     //注销账户
-    private void endAccount() {
+    private boolean endAccount() {
         System.out.println("------注销账户------");
         for (int i = 0; i < accounts.size(); i++) {
             if (accounts.get(i) == accLogin) {
@@ -307,10 +311,11 @@ public class AtmSystem {
                 int flag = sc.nextInt();
                 if (flag == 1) {
                     accounts.remove(i);
+                    return true;
                 }
+                return false;
             }
         }
+        return false;
     }
-
-
 }

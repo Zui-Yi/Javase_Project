@@ -10,11 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4061719-2ee0-4919-9212-230d69726625" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/day09_atm_app/day09_atm_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_atm_app/src/com/rx/atm/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_atm_app/src/com/rx/atm/AtmSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_atm_app/src/com/rx/atm/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +182,7 @@
       <workItem from="1697623293255" duration="200000" />
       <workItem from="1697635454676" duration="1316000" />
       <workItem from="1697650359303" duration="11464000" />
-      <workItem from="1697706647808" duration="7270000" />
+      <workItem from="1697706647808" duration="8104000" />
     </task>
     <servers />
   </component>
